@@ -1,3 +1,5 @@
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+
 # Project Title: Post QR code wordpress plugin
 
 ## Table of Contents
